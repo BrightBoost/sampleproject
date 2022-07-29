@@ -28,7 +28,7 @@ The code:
 A screenshot of the result:
 ![Screenshot of result exercise 1](images/week1exercise1.png)
 
-The complete solution can be found [here](hello.html).
+The complete solution can be found [here](week1/exercise1/hello.html).
 
 ### Exercise 2
 
@@ -50,6 +50,8 @@ The code:
 A screenshot of the result:
 ![Screenshot of result exercise 1](images/week1exercise1.png)
 
+The complete solution can be found [here](week1/exercise2/hello.html).
+
 ### Assessment score (optional)
 
 I got **_95%_**
@@ -66,6 +68,8 @@ Include implementation decisions. Explain pieces of your code.
 
 Include screenshot of all the results as well:
 ![Screenshot of result exercise 1](images/week1exercise1.png)
+
+The complete solution can be found [here](week1/project/hello.html).
 
 ---
 
@@ -91,6 +95,8 @@ The code:
 A screenshot of the result:
 ![Screenshot of result exercise 1](images/week1exercise1.png)
 
+The complete solution can be found [here](week2/exercise1/hello.html).
+
 ### Exercise 2
 
 Describe your thought process. Explain your solutions briefly. Make sure to show images of all the things you've done.
@@ -111,6 +117,8 @@ The code:
 A screenshot of the result:
 ![Screenshot of result exercise 1](images/week1exercise1.png)
 
+The complete solution can be found [here](week2/exercise2/hello.html).
+
 ### Assessment score (optional)
 
 I got **_95%_**
@@ -127,5 +135,7 @@ Include implementation decisions. Explain pieces of your code.
 
 Include screenshot of all the results as well:
 ![Screenshot of result exercise 1](images/week1exercise1.png)
+
+The complete solution can be found [here](week2/project/hello.html).
 
 ---
